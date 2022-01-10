@@ -49,7 +49,7 @@ const Landing = () => {
           <HeadingLarge>Full-Stack Web Developer.</HeadingLarge>
         </Heading>
         <InfoPara>
-          Focused on making creative web-apps with slick design. <br /> Currently converting some Words into Code.
+          Focused on making creative web-apps with slick designs. <br /> Currently converting some Words into Code.
         </InfoPara>
         <Button value="My Resume" target="_blank" href="https://drive.google.com/file/d/1HVgnLwu1syFpHLwZtOnVku6wkzLEcDgQ/view?usp=sharing" size="1.3rem"></Button>
       </HeadingWrapper>

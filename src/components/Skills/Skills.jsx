@@ -24,6 +24,7 @@ const Skills = (props) => {
     <>
       <SkillsSectionWrapper id={props.id}>
         <SkillsHeading>Skills</SkillsHeading>
+        <h2 style={{color: 'white', marginBottom: '27px', fontFamily: "Sora-SemiBold"}}>Languages, Libraries, Frameworks & Tools</h2>
         <SkillsWrapper>
           {Object.values(skillsInfo).map((element) => {
             return (

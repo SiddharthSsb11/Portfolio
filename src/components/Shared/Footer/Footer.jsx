@@ -5,7 +5,7 @@ const Footer = () => {
     <>
       <FooterWrapper>
         <FooterText>
-          © Copyright Naman Parashar 2021.
+          © Copyright Siddharth Singh Bhadoriya 2022.
         </FooterText>
       </FooterWrapper>
     </>

@@ -26,10 +26,6 @@ function App() {
           name="keywords"
           content="Siddharth, Bhadoriya, Portfolio, SiddharthSsb11, Ssb, SiddharthBhadoriya"
         />
-        <meta
-          name="google-site-verification"
-          content="i85RmtUSgXAufFNybjnUCqxvPbcMAQT-C3sjmDtewIo"
-        />
       </Helmet>
       {loader === false ? (
         <Router>

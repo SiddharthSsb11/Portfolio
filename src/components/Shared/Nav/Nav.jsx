@@ -11,7 +11,7 @@ import {
 } from "./NavElements";
 import { FaGithub } from "@react-icons/all-files/fa/FaGithub";
 import { FaInstagram } from "@react-icons/all-files/fa/FaInstagram";
-import { FaMedium } from "@react-icons/all-files/fa/FaMedium";
+import { FaTelegram } from "@react-icons/all-files/fa/FaTelegram";
 import { AiOutlineClose } from "@react-icons/all-files/ai/AiOutlineClose";
 import { AiOutlineMenu } from "@react-icons/all-files/ai/AiOutlineMenu";
 import { animateScroll as scroll } from "react-scroll";
@@ -108,7 +108,7 @@ const Nav = () => {
           </NavLinks>
           <NavSocialIcons>
             <a
-              href="https://github.com/SiddharthSsb11"
+              href="https://github.com/nparashar150"
               target="_blank"
               rel="noreferrer"
               aria-label="Github"
@@ -129,7 +129,7 @@ const Nav = () => {
               rel="noreferrer"
               aria-label="Telegram"
             >
-              <FaMedium size="1.5rem"></FaMedium>
+              <FaTelegram size="1.5rem"></FaTelegram>
             </a>
           </NavSocialIcons>
         </NavElements>

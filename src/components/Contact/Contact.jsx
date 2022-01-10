@@ -1,4 +1,4 @@
-import { useRef, useState } from "react";
+import React, { useRef, useState } from "react";
 import emailjs from "emailjs-com";
 import {
   ContactForm,
@@ -32,10 +32,10 @@ const Contact = (props) => {
     e.preventDefault();
     await emailjs
       .sendForm(
-        "service_hc3wdkt",
-        "template_66befo6",
+        "service_8lszf98",
+        "template_zhyv93r",
         form.current,
-        "user_GRukHJlWrzoahMmlJBL3e"
+        "user_iadVTZnwJAu26YqL7E6or"
       )
       .then(
         (result) => {
@@ -55,7 +55,7 @@ const Contact = (props) => {
   };
 
   return (
-    <>
+    <React.Fragment>
       {submitSuccess ? (
         <ContactSubmitWrapper>
           <Lottie options={defaultOptions} width={48} height={48} />
@@ -111,7 +111,7 @@ const Contact = (props) => {
           </ContactData>
         </ContactWrapper>
       </Zoom>
-    </>
+    </React.Fragment>
   );
 };
 

@@ -1,54 +1,65 @@
 {
   "data": {
     "1": {
-      "name": "HTML",
+      "name": "HTML, CSS, SASS",
+      "percentage": "95%",
+      "left": "5%"
+    },
+    "2": {
+      "name": "Javascript",
+      "percentage": "95%",
+      "left": "5%"
+    },
+    "3": {
+      "name": "C++",
+      "percentage": "80%",
+      "left": "20%"
+    },
+    "4": {
+      "name": "ReactJS, Redux, NextJS",
       "percentage": "85%",
       "left": "15%"
     },
-    "2": {
-      "name": "CSS",
+    "5": {
+      "name": "NodeJS, ExpressJS",
       "percentage": "80%",
       "left": "20%"
-    },
-    "3": {
-      "name": "Javascript",
-      "percentage": "70%",
-      "left": "30%"
-    },
-    "4": {
-      "name": "ReactJS",
-      "percentage": "60%",
-      "left": "40%"
-    },
-    "5": {
-      "name": "Styled Components",
-      "percentage": "65%",
-      "left": "35%"
     },
     "6": {
-      "name": "ExpressJS",
-      "percentage": "65%",
-      "left": "35%"
-    },
-    "7": {
-      "name": "MongoDb",
-      "percentage": "60%",
-      "left": "40%"
-    },
-    "8": {
-      "name": "Bash Scripting",
+      "name": "MongoDB, Mongoose",
       "percentage": "80%",
       "left": "20%"
     },
+    "7": {
+      "name": "Material-UI, Bootstrap",
+      "percentage": "75%",
+      "left": "25%"
+    },
+    "8": {
+      "name": "Chakra-UI, Styled-Components",
+      "percentage": "75%",
+      "left": "25%"
+    },
     "9": {
-      "name": "Figma",
+      "name": "Firebase, Heroku, AWS",
       "percentage": "70%",
       "left": "30%"
     },
     "10": {
-      "name": "Github",
+      "name": "Git, Postman, Figma, VSCode",
+      "percentage": "85%",
+      "left": "20%"
+    },
+    "11": {
+      "name": "TypeScript",
       "percentage": "75%",
+      "left": "25%"
+    },
+    "12": {
+      "name": "Socket.io, ChartJS",
+      "percentage": "80%",
       "left": "20%"
     }
+
   }
 }
