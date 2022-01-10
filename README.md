@@ -1,14 +1,25 @@
 # Personal Portfolio Website 👨‍💻
-Hello there, welcome to the repository of my Personal Portfolio Website!! <br>
+Hello there, welcome to the repository of my Personal Portfolio!! <br>
 This is still a work in progress <br>
 If you find anything buggy you can report it to me.
-## Screenshots
+<!-- ## Screenshots
 ![Homepage](/screenshots/1.png "Homepage")
 ![About](/screenshots/2.png "About")
 ![Skills](/screenshots/3.png "Skills")
 ![Projects](/screenshots/4.png "Projects")
 ![Contact](/screenshots/5.png "Contact")
-<br>
+<br> -->
+
+
+## Tools/Technologies Used
+
+1) React JS
+2) React Scroll
+3) React Reveal
+4) React Helmet
+5) Styled Components
+6) Lottie Animation
+7) Email JS
 
 ## Directory Structure 
 ```.
@@ -84,16 +95,6 @@ If you find anything buggy you can report it to me.
 └── yarn.lock
 ```
 <br>
-
-## Tools/Technologies Used
-
-1) React JS
-2) React Scroll
-3) React Reveal
-4) React Helmet
-5) Styled Components
-6) Lottie Animation
-7) Email JS
 
 
 
