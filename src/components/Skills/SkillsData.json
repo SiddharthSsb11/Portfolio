@@ -1,0 +1,54 @@
+{
+  "data": {
+    "1": {
+      "name": "HTML",
+      "percentage": "85%",
+      "left": "15%"
+    },
+    "2": {
+      "name": "CSS",
+      "percentage": "80%",
+      "left": "20%"
+    },
+    "3": {
+      "name": "Javascript",
+      "percentage": "70%",
+      "left": "30%"
+    },
+    "4": {
+      "name": "ReactJS",
+      "percentage": "60%",
+      "left": "40%"
+    },
+    "5": {
+      "name": "Styled Components",
+      "percentage": "65%",
+      "left": "35%"
+    },
+    "6": {
+      "name": "ExpressJS",
+      "percentage": "65%",
+      "left": "35%"
+    },
+    "7": {
+      "name": "MongoDb",
+      "percentage": "60%",
+      "left": "40%"
+    },
+    "8": {
+      "name": "Bash Scripting",
+      "percentage": "80%",
+      "left": "20%"
+    },
+    "9": {
+      "name": "Figma",
+      "percentage": "70%",
+      "left": "30%"
+    },
+    "10": {
+      "name": "Github",
+      "percentage": "75%",
+      "left": "20%"
+    }
+  }
+}

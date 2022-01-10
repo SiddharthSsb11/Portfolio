@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+@font-face {
+  font-family: Sora-Bold;
+  src: url('./font/Sora-Bold.ttf');
+};
+
+@font-face {
+  font-family: Sora-ExtraLight;
+  src: url('./font/Sora-ExtraBold.ttf');
+};
+
+@font-face {
+  font-family: Sora-ExtraLight;
+  src: url('./font/Sora-ExtraLight.ttf');
+}
+
+@font-face {
+  font-family: Sora-Light;
+  src: url('./font/Sora-Light.ttf');
+}
+
+@font-face {
+  font-family: Sora-Medium;
+  src: url('./font/Sora-Medium.ttf');
+}
+
+@font-face {
+  font-family: Sora-Regular;
+  src: url('./font/Sora-Regular.ttf');
+}
+
+@font-face {
+  font-family: Sora-SemiBold;
+  src: url('./font/Sora-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: Sora-Thin;
+  src: url('./font/Sora-Thin.ttf');
+}
+
+body {
+  overflow-x: hidden;
+  background: #02101d;
+  overscroll-behavior-y: none;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #02101D;
+}
+::-webkit-scrollbar-thumb {
+  background: #EEE;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #64FFDA;
+}
+
+::-moz-selection {
+  color: #64FFDA;
+  background: #EEEEEE;
+}
+
+::selection {
+  color: #64FFDA;
+  background: #EEEEEE;
+}
