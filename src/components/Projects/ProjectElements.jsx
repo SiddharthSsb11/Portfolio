@@ -12,10 +12,10 @@ export const ProjectMainWrapper = styled.section`
   margin-left: 15vw;
   height: 100vh; */
   display: grid;
-  grid-template-columns: 25rem 25rem;
-  grid-template-rows: 15rem;
-  grid-gap: 7rem;
-  row-gap: 7rem;
+  grid-template-columns: 18rem 18rem 18rem;
+  grid-template-rows: 10rem;
+  grid-gap: 3.5rem;
+  row-gap: 6rem;
   justify-content: center;
   align-items: start;
   justify-items: center;
@@ -57,8 +57,8 @@ export const ProjectWrapper = styled(Link)`
   &::before, 
   &::after {
     content: "";
-    width: 25rem;
-    height: 15rem;
+    width: 17rem;
+    height: 10rem;
     position: absolute;
     z-index: 1;
     border: 2px solid ${ primary };
@@ -114,8 +114,8 @@ export const ProjectDetail = styled.section`
   font-family: Sora-Regular;
   text-align: center;
   transition: 0.375s all ease-in-out;
-  width: 25rem;
-  height: 15rem;
+  width: 17rem;
+  height: 10rem;
   z-index: 2;
   margin-bottom: -25px;
   gap: 15px;
@@ -139,8 +139,8 @@ export const ProjectPreview = styled.section`
   flex-direction: row;
   gap: 0.75rem;
   z-index: 3;
-  width: 25rem;
-  height: 15rem;
+  width: 17rem;
+  height: 10rem;
   background: ${primary + "50"};
   transition: .375s all ease-in-out;
   

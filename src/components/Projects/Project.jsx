@@ -22,7 +22,7 @@ const flex = {
 
 const Project = (props) => {
   return (
-    <>
+    <React.Fragment>
       <Fade cascade>
         <div style={flex}>
           <ProjectWrapper target={"_blank"} to={props.to}>
@@ -36,7 +36,7 @@ const Project = (props) => {
           </ProjectWrapper>
         </div>
       </Fade>
-    </>
+    </React.Fragment>
   );
 };
 
