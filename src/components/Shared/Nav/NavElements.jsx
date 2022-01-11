@@ -162,7 +162,7 @@ export const NavSocialIcons = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  padding-bottom: 1.6rem;
+  padding-bottom: 0.2rem;
   flex-direction: column;
   width: 5vw;
   transition: 0.375s ease-in-out;
