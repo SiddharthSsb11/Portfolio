@@ -44,7 +44,7 @@ const About = (props) => {
                   experiences that run cross-platform and all devices. I have an unequivocal
                   love for making things that might change the world. Talk about Cliche...<br/>
                   I love to code, play Tabla, watch football and specifically into War,
-                  Kingdoms & Empires, Civilisation...random mysterious-historical stuffs !!
+                  Kingdoms & Empires, Civilisation...random mysterious & historical stuffs !!
                   
                 </AboutDetail>
               </AboutDetailWrapper>
