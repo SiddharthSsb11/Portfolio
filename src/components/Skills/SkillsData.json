@@ -32,13 +32,13 @@
     },
     "7": {
       "name": "Material-UI, Bootstrap",
-      "percentage": "75%",
-      "left": "25%"
+      "percentage": "85%",
+      "left": "15%"
     },
     "8": {
       "name": "Chakra-UI, Styled-Components",
-      "percentage": "75%",
-      "left": "25%"
+      "percentage": "80%",
+      "left": "20%"
     },
     "9": {
       "name": "Firebase, Heroku, AWS",
@@ -57,8 +57,8 @@
     },
     "12": {
       "name": "Socket.io, ChartJS",
-      "percentage": "80%",
-      "left": "20%"
+      "percentage": "85%",
+      "left": "15%"
     }
 
   }
