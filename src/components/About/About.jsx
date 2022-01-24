@@ -37,7 +37,7 @@ const About = (props) => {
             </Fade>
             <Fade cascade>
               <AboutDetailWrapper>
-                <AboutDetail>
+                <AboutDetail style={{textAlign: 'justify'}}>
                   I'm passionately into making things and even more determined in making things better.
                   <br /> <br />
                   I enjoy using my obsessive attention to detail in building interactive
