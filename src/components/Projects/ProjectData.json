@@ -1,40 +1,40 @@
 {
   "data": {
     "1": {
-      "name": "Windows 11",
-      "content": "Microsoft Windows 11 Mobile UI concept using Figma. A prototype on Google Pixel 2.",
-      "image": "https://raw.githubusercontent.com/nparashar150/Personal-Portfolio/frontend/src/components/Projects/ProjectLogo/StartMenu.svg",
-      "link": "https://www.instagram.com/p/CSEeej-FXCY/?utm_source=ig_web_copy_link"
+      "name": "1",
+      "content": "",
+      "image": "",
+      "link": ""
     },
     "2": {
-      "name": "Kindle",
-      "content": "Amazon Kindle WebApp concept made using React, Express, MongoDb. It uses JWT auth for creating accounts.",
-      "image": "https://raw.githubusercontent.com/nparashar150/Personal-Portfolio/frontend/src/components/Projects/ProjectLogo/AmazonKindle.png",
-      "link": "https://github.com/nparashar150/amazon-kindle-webapp-frontend"
+      "name": "2",
+      "content": "",
+      "image": "",
+      "link": ""
     },
     "3": {
-      "name": "ColtOS",
-      "content": "Made website for Opensource Project 'Colt OS' using Vanilla HTML, CSS, JS.",
-      "image": "https://raw.githubusercontent.com/nparashar150/Personal-Portfolio/frontend/src/components/Projects/ProjectLogo/ColtEnigma.png",
-      "link": "https://colt-enigma.github.io/"
+      "name": "3",
+      "content": "",
+      "image": "",
+      "link": ""
     },
     "4": {
-      "name": "Note.it",
-      "content": "Notes App which stores data to LocalStorage and includes Firebase Auth, using HTML, CSS, JS.",
-      "image": "https://raw.githubusercontent.com/nparashar150/Personal-Portfolio/frontend/src/components/Projects/ProjectLogo/NoteIt.png",
-      "link": "https://msms-224ad.web.app/"
+      "name": "4",
+      "content": "",
+      "image": "",
+      "link": ""
     },
     "5": {
-      "name": "Note.it",
+      "name": "5",
       "content": "Notes App which stores data to LocalStorage and includes Firebase Auth, using HTML, CSS, JS.",
-      "image": "https://raw.githubusercontent.com/nparashar150/Personal-Portfolio/frontend/src/components/Projects/ProjectLogo/NoteIt.png",
+      "image": "",
       "link": "https://msms-224ad.web.app/"
     },
     "6": {
-      "name": "Note.it",
-      "content": "Notes App which stores data to LocalStorage and includes Firebase Auth, using HTML, CSS, JS.",
-      "image": "https://raw.githubusercontent.com/nparashar150/Personal-Portfolio/frontend/src/components/Projects/ProjectLogo/NoteIt.png",
-      "link": "https://msms-224ad.web.app/"
+      "name": "6",
+      "content": "",
+      "image": "",
+      "link": ""
     }
   }
 }

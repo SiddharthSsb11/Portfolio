@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Project from "./Project";
-import { ProjectMainWrapper } from "./ProjectElements";
+import { ProjectMainWrapper, ProjectHeading } from "./ProjectElements";
 import ProjectData from "./ProjectData.json";
 
 const ProjectMain = (props) => {
@@ -16,7 +16,7 @@ const ProjectMain = (props) => {
 
   return (
     <React.Fragment>
-      {/* <ProjectHeading>Projects</ProjectHeading> */}
+      <ProjectHeading style={{marginBottom: "-120px", marginTop: "70px"}}>Projects</ProjectHeading>
       <ProjectMainWrapper id={props.id}>
         {Object.values(projectInfo).map((element) => {
           return (
@@ -29,11 +29,12 @@ const ProjectMain = (props) => {
           );
         })}
       </ProjectMainWrapper>
-      <h2 style={{color: 'white', marginBottom: '27px', fontFamily: "Sora-SemiBold", textAlign: 'center', marginTop: '-60px'}}>
-        Check out my <a href="https://github.com/SiddharthSsb11" target="_blank" rel="noreferrer" style={{ color: '#64FFDA', textDecoration:"none" }}>
-        <strong>Github</strong></a>  profile for more such projects, that I have<br/> 
+      <h3 style={{marginLeft:"60px", lineHeight:"1.9", color: 'white', marginBottom: '27px', fontFamily: "Sora-SemiBold", textAlign: 'center', marginTop: '-84px'}}>
+        Check out my &nbsp; <a href="https://github.com/SiddharthSsb11" target="_blank" rel="noreferrer" 
+        style={{ color: '#64FFDA', textDecoration:"none", fontSize:"24px", border: '4px solid #64FFDA', padding: '5px', borderRadius: "12px"}}>
+        <strong>Github</strong></a> &nbsp;  profile for more such projects, <br/>that I have 
          deployed over this thing called internet.
-      </h2>
+      </h3>
     </React.Fragment>
   );
 };

@@ -164,7 +164,16 @@ export const ProjectPreview = styled.section`
 `;
 
 export const ProjectHeading = styled.h1`
-  text-align: center;
   color: ${secondary};
+  text-align: center;
+  font-size: 2rem;
   font-family: Sora-SemiBold;
+  width: 100vw;
+  padding: 2rem 0 2rem 2rem;
+
+  @media (max-width: 768px) {
+    text-align: start;
+    padding: 1rem 0 1rem 2rem;
+    margin-left: 2rem;
+  }
 `;
