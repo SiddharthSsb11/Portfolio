@@ -9,7 +9,6 @@ If you find anything buggy you can report it to me.
 ![about](/screenshots/about.png "About")
 ![skills](/screenshots/skills.png "Skills")
 ![projects](/screenshots/projects.png "Projects")
-![contact](/screenshots/contact.png "Contact")
 
 ## Tools/Technologies Used
 
