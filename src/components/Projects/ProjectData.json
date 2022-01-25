@@ -7,7 +7,7 @@
       "link": "https://buildbuy.herokuapp.com/"
     },
     "2": {
-      "name": "2",
+      "name": "Social Media",
       "content": "",
       "image": "",
       "link": ""
@@ -18,19 +18,19 @@
       "link": "https://crypto-world-ssb.netlify.app/"
     },
     "4": {
-      "name": "4",
+      "name": "Chat App",
       "content": "",
       "image": "",
       "link": ""
     },
     "5": {
-      "name": "5",
+      "name": "Expense Tracker",
       "content": "Notes App which stores data to LocalStorage and includes Firebase Auth, using HTML, CSS, JS.",
       "image": "",
       "link": ""
     },
     "6": {
-      "name": "6",
+      "name": "Memories",
       "content": "",
       "image": "",
       "link": ""
