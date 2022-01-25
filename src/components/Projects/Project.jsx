@@ -2,7 +2,7 @@ import React from "react";
 import {
   ProjectWrapper,
   ProjectPreview,
-  ProjectImage,
+  /* ProjectImage, */
   ProjectName,
   ProjectDetail,
   ProjectDataDetail,
@@ -27,7 +27,7 @@ const Project = (props) => {
         <div style={flex}>
           <ProjectWrapper target={"_blank"} to={props.to}>
             <ProjectPreview>
-              <ProjectImage src={props.img} alt=""></ProjectImage>
+              {/* <ProjectImage src={props.img} alt=""></ProjectImage> */}
               <ProjectName>{props.name}</ProjectName>
             </ProjectPreview>
             <ProjectDetail>

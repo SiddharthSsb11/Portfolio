@@ -22,7 +22,7 @@ const ProjectMain = (props) => {
           return (
             <Project
               name={element.name}
-              img={element.image}
+              /* img={element.image} */
               value={element.content}
               to={{ pathname: element.link }}
             />
