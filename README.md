@@ -4,9 +4,11 @@ This is still a work in progress <br>
 If you find anything buggy you can report it to me.
 
 
-### Few Screenshots
-
+## Few Screenshots
+![landing](/screenshots/landing.png "Landing")
+![about](/screenshots/about.png "About")
 ![skills](/screenshots/skills.png "Skills")
+![projects](/screenshots/projects.png "Projects")
 ![contact](/screenshots/contact.png "Contact")
 
 ## Tools/Technologies Used
