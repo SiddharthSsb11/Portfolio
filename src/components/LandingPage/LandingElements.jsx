@@ -11,6 +11,7 @@ export const HeadingWrapper = styled.main`
   flex-direction: column;
   /* padding-top: 2rem; */
   padding-left: 2rem;
+  z-index: 5;
 `;
 export const Heading = styled.div`
   color: ${primary};

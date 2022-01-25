@@ -15,3 +15,8 @@ export const MainWrapper = styled.div`
     flex-direction: column;
   }
 `;
+
+export const Wrapper = styled.div`
+  position: absolute;
+  z-index: 5;
+`;

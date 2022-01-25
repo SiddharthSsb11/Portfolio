@@ -1,8 +1,8 @@
 {
   "name": "portfolio-website",
   "version": "1.0.0",
-  "author": "nparashar150",
-  "repository": "https://github.com/nparashar150/Personal-Portfolio",
+  "author": "Siddharth Singh Bhadoriya",
+  "repository": "https://github.com/SiddharthSsb11/Portfolio",
   "private": true,
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
@@ -19,6 +19,8 @@
     "react-router-dom": "^5.3.0",
     "react-scripts": "4.0.3",
     "react-scroll": "^1.8.4",
+    "react-tsparticles": "^1.39.0",
+    "sass": "^1.49.0",
     "styled-components": "^5.3.1",
     "web-vitals": "^1.0.1"
   },

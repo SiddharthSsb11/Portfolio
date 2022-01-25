@@ -20,6 +20,7 @@ export const ProjectMainWrapper = styled.section`
   align-items: start;
   justify-items: center;
   padding: 5rem 0 5rem 3rem;
+  z-index: 5;
 
   @media (max-width: 768px) {
     /* display: flex;
@@ -36,6 +37,7 @@ export const ProjectMainWrapper = styled.section`
     justify-content: end;
     /* justify-items: center; */
     align-items: center;
+    padding-left: 0;
   }
 `;
 

@@ -5,10 +5,17 @@ export const FooterWrapper = styled.footer`
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-left: 6vw;
   height: 10vh;
-  width: 100vw;
+  width: 88vw;
   background: ${backgroundDark};
   padding: 1rem 0;
+  z-index: 5;
+    
+  @media (max-width: 768px) {
+    width: 100vw;
+    margin-left: 0;
+  }
 `;
 
 export const FooterText = styled.h1`

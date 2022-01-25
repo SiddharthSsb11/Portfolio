@@ -8,6 +8,7 @@ export const ContactWrapper = styled.section`
   flex-direction: column;
   width: 100%;
   height: 100vh;
+  z-index: 5;
 
   @media (max-width: 768px) {
     width: 100vw;
