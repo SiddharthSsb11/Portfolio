@@ -29,7 +29,7 @@ const LoadingWrapper = styled.a`
   width: 100vw;
   position: absolute;
   bottom: 2rem;
-  z-index: 5;
+  /* z-index: 5; */
 
   @media (max-width: 768px) {
     bottom: 0;

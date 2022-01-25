@@ -8,7 +8,7 @@ export const AboutSection = styled.section`
   width: 100vw;
   height: 100vh;
   padding: 1rem 0 2rem 3rem;
-  z-index: 5;
+  /* z-index: 5; */
   /* margin-left: 15vw; */
 
   @media (max-width: 768px) {

@@ -10,7 +10,7 @@ export const FooterWrapper = styled.footer`
   width: 88vw;
   background: ${backgroundDark};
   padding: 1rem 0;
-  z-index: 5;
+  /* z-index: 5; */
     
   @media (max-width: 768px) {
     width: 100vw;

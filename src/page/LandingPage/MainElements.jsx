@@ -16,7 +16,8 @@ export const MainWrapper = styled.div`
   }
 `;
 
-export const Wrapper = styled.div`
+/* export const Wrapper = styled.div`
   position: absolute;
   z-index: 5;
 `;
+ */

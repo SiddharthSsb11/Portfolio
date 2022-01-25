@@ -1,7 +1,7 @@
 import React from "react";
 import Nav from "../../components/Shared/Nav/Nav";
 import Landing from "../../components/LandingPage/Landing";
-import { MainWrapper, Wrapper } from "./MainElements";
+import { MainWrapper,/*  Wrapper */ } from "./MainElements";
 import {
   EmailWrapper,
   EmailComponent,
@@ -13,18 +13,18 @@ import Contact from "../../components/Contact/Contact.jsx";
 import Skills from "../../components/Skills/Skills.jsx";
 import Footer from "../../components/Shared/Footer/Footer";
 
-import Particles from "react-tsparticles";
-import particleConfig from "./ParticleConfig.json";
+/* import Particles from "react-tsparticles";
+import particleConfig from "./ParticleConfig.json"; */
 
 const Main = () => {
 
-  const particlesInit = (main) => {
+/*   const particlesInit = (main) => {
     // console.log(main);
   };
 
   const particlesLoaded = (container) => {
     // console.log(container);
-  };
+  }; */
 
   return (
     <React.Fragment>
@@ -42,18 +42,11 @@ const Main = () => {
             ></EmailComponent>
           </EmailWrapper>
         </MainWrapper>
-        <Wrapper>
-          <About id="about" />
-          <Skills id="skills" />
-          <ProjectMain id="projects" />
-          <Contact id="contact" />
-          <Footer />
-        </Wrapper>
-        <Particles
-          init={particlesInit}
-          loaded={particlesLoaded}
-          options={particleConfig}
-        />
+        <About id="about" />
+        <Skills id="skills" />
+        <ProjectMain id="projects" />
+        <Contact id="contact" />
+        <Footer />
       </div>
     </React.Fragment>
   );

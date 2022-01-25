@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import {
   SkillsSectionWrapper,
   SkillsWrapper,
@@ -21,7 +21,7 @@ const Skills = (props) => {
   }, []);
 
   return (
-    <>
+    <React.Fragment>
       <SkillsSectionWrapper id={props.id}>
         <SkillsHeading>Skills</SkillsHeading>
         <h3 style={{color: 'white', marginBottom: '36px', marginLeft: "20px",fontFamily: "Sora-SemiBold"}}>Languages, Libraries, Frameworks & Tools</h3>
@@ -42,7 +42,7 @@ const Skills = (props) => {
           })}
         </SkillsWrapper>
       </SkillsSectionWrapper>
-    </>
+    </React.Fragment>
   );
 };
 
