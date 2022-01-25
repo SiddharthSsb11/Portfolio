@@ -29,12 +29,12 @@ const ProjectMain = (props) => {
           );
         })}
       </ProjectMainWrapper>
-      <h3 style={{marginLeft:"60px", lineHeight:"1.9", color: 'white', marginBottom: '27px', fontFamily: "Sora-SemiBold", textAlign: 'center', marginTop: '-84px'}}>
+      <h4 style={{marginLeft:"60px", lineHeight:"1.9", color: 'white', marginBottom: '27px', fontFamily: "Sora-SemiBold", textAlign: 'center', marginTop: '-78px'}}>
         Check out my &nbsp; <a href="https://github.com/SiddharthSsb11" target="_blank" rel="noreferrer" 
-        style={{ color: '#64FFDA', textDecoration:"none", fontSize:"24px", border: '4px solid #64FFDA', padding: '5px', borderRadius: "12px"}}>
+        style={{ color: '#64FFDA', textDecoration:"none", fontSize:"20px", border: '4px solid #64FFDA', padding: '5px', borderRadius: "12px"}}>
         <strong>Github</strong></a> &nbsp;  profile for more such projects, <br/>that I have 
          deployed over this thing called internet.
-      </h3>
+      </h4>
     </React.Fragment>
   );
 };
