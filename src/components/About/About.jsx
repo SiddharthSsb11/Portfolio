@@ -43,8 +43,8 @@ const About = (props) => {
                   I enjoy using my obsessive attention to detail in building interactive
                   experiences that run cross-platform and all devices. I have an unequivocal
                   love for making things that might change the world. Talk about Cliche...<br/>
-                  I love to code, play Tabla, watch football and specifically into War,
-                  Kingdoms & Empires, Civilisation...random mysterious & historical stuffs !!
+                  I love to code, play Tabla, watch & play football and I am specifically into War,
+                  Kingdoms & Empires, Civilisation...to sum up, random mysterious & historical stuffs !!
                   
                 </AboutDetail>
               </AboutDetailWrapper>
