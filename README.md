@@ -1,7 +1,7 @@
 # Personal Portfolio Website 👨‍💻
 Hello there, welcome to the repository of my Personal Portfolio!! <br>
 This is still a work in progress <br>
-If you find anything buggy you can report it to me.
+If you find any bugs you can report it to me.
 
 
 ## Few Screenshots
