@@ -1,13 +1,13 @@
 {
   "data": {
     "1": {
-      "name": "eCommerce",
+      "name": "Build & Buy",
       "content": "MERN eCommerce application to build and buy or upgrade your gaming setup.",
       "image": "",
       "link": "https://buildbuy.herokuapp.com/"
     },
     "2": {
-      "name": "Chat App",
+      "name": "Text A Lot",
       "content": "A MERN Realtime Chat Application for both one-on-one chats and group chats..",
       "image": "",
       "link": "https://textalot.herokuapp.com/"
@@ -18,13 +18,13 @@
       "link": "https://crypto-world-ssb.netlify.app/"
     },
     "4": {
-      "name": "Social Media",
-      "content": "MERN platform to Share all the Memories you created, Places you visited & Achievements you chased with the world.",
+      "name": "MemoriesPlaces",
+      "content": "MERN Socail Media platform to Share all the Memories you created, Places you visited & Achievements you chased with the world.",
       "image": "",
       "link": "https://mern-memories-places.web.app/"
     },
     "5": {
-      "name": "Budget Tracker",
+      "name": "Budget Master",
       "content": "A React-Fullstack platform to track your income and expenses in one place via detailed graphical information & manage your budget.",
       "image": "",
       "link": ""
