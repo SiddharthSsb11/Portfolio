@@ -7,31 +7,31 @@
       "link": "https://buildbuy.herokuapp.com/"
     },
     "2": {
-      "name": "Social Media",
-      "content": "",
+      "name": "Chat App",
+      "content": "A MERN Realtime Chat Application for both one-on-one chats and group chats..",
       "image": "",
-      "link": ""
+      "link": "https://textalot.herokuapp.com/"
     },
     "3": {
       "name": "Crypto World",
-      "content": "A React-Fullstack platform to track all cryptocurrency in one place and historical data is represented by graphs.",
+      "content": "A React-Fullstack platform to track everything about cryptocurrencies in one place and historical data is represented by graphs.",
       "link": "https://crypto-world-ssb.netlify.app/"
     },
     "4": {
-      "name": "Chat App",
-      "content": "",
+      "name": "Social Media",
+      "content": "MERN platform to Share all the Memories you created, Places you visited & Achievements you chased with the world.",
       "image": "",
-      "link": ""
+      "link": "https://mern-memories-places.web.app/"
     },
     "5": {
-      "name": "Expense Tracker",
-      "content": "Notes App which stores data to LocalStorage and includes Firebase Auth, using HTML, CSS, JS.",
+      "name": "Budget Tracker",
+      "content": "A React-Fullstack platform to track your income and expenses in one place via detailed graphical information & manage your budget.",
       "image": "",
       "link": ""
     },
     "6": {
-      "name": "Memories",
-      "content": "",
+      "name": "Landing Page",
+      "content": "React Responsive Landing Page for a Restaraunt with Modern UI and UX Design Models, Powered by FIGMA",
       "image": "",
       "link": ""
     }
