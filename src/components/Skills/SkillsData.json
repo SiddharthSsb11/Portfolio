@@ -22,8 +22,8 @@
     },
     "5": {
       "name": "NodeJS, ExpressJS",
-      "percentage": "80%",
-      "left": "20%"
+      "percentage": "85%",
+      "left": "15%"
     },
     "6": {
       "name": "MongoDB, Mongoose",
@@ -37,7 +37,7 @@
     },
     "8": {
       "name": "Chakra-UI, Styled-Components",
-      "percentage": "80%",
+      "percentage": "90%",
       "left": "20%"
     },
     "9": {
