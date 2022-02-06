@@ -2,36 +2,36 @@
   "data": {
     "1": {
       "name": "Build & Buy",
-      "content": "MERN eCommerce application to build and buy or upgrade your gaming setup.",
+      "content": "eCommerce application to build & buy or upgrade your gaming setup.",
       "image": "",
       "link": "https://buildbuy.herokuapp.com/"
     },
     "2": {
-      "name": "Text A Lot",
-      "content": "A MERN Realtime Chat Application for both one-on-one chats and group chats..",
+      "name": "Text-A-Lot",
+      "content": "A realtime Chat Application for both one-on-one chats and group chats.",
       "image": "",
       "link": "https://textalot.herokuapp.com/"
     },
     "3": {
       "name": "Crypto World",
-      "content": "A React-Fullstack platform to track everything about cryptocurrencies in one place and historical data is represented by graphs.",
+      "content": "A platform to track all and everything about Cryptocurrencies with detailed Graphical information.",
       "link": "https://crypto-world-ssb.netlify.app/"
     },
     "4": {
       "name": "MemoriesPlaces",
-      "content": "MERN Socail Media platform to Share all the Memories you created, Places you visited & Achievements you chased with the world.",
+      "content": "Social Media platform to Share all the Memories you created, Places you visited & Achievements you chased..",
       "image": "",
       "link": "https://mern-memories-places.web.app/"
     },
     "5": {
       "name": "Budget Master",
-      "content": "A React-Fullstack platform to track your income and expenses in one place via detailed graphical information to manage your budget.",
+      "content": "A platform enabled with voice input, to track your Incomes & Expenses via detailed Graphical data, to manage your Budget.",
       "image": "",
       "link": ""
     },
     "6": {
-      "name": "Landing Page",
-      "content": "React Responsive Landing Page for a Restaraunt with Modern UI and UX Design Models, Powered by FIGMA",
+      "name": "Restaurant",
+      "content": "Awesome & Responsive Landing Page for a Restaraunt with Modern UI/UX Design. Powered by FIGMA.",
       "image": "",
       "link": ""
     }
