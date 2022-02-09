@@ -21,7 +21,7 @@ function App() {
       <Helmet>
         <html lang="en" />
         <title> | Siddharth S. Bhadoriya</title>
-        <meta name="description" content="Naman Parashar Portfolio" />
+        <meta name="description" content="Siddharth Singh Bhadoriya Portfolio" />
         <meta
           name="keywords"
           content="Siddharth, Bhadoriya, Portfolio, SiddharthSsb11, Ssb, SiddharthBhadoriya"
