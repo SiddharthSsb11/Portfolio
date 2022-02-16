@@ -25,13 +25,13 @@
     },
     "5": {
       "name": "Budget Master",
-      "content": "A platform enabled with voice input, to track your Incomes & Expenses via detailed Graphical data, to manage your Budget.",
+      "content": "A platform to track & compare your Incomes & Expenses transactions in one place via detailed Graphical information to manage your Budget.",
       "image": "",
       "link": "https://budget-master-12.web.app/"
     },
     "6": {
       "name": "Battleship",
-      "content": "An awesome realtime Game with both modes: Singleplayer & Multiplayer",
+      "content": "WorkInProgress - An awesome realtime Game with both modes: Singleplayer & Multiplayer",
       "image": "",
       "link": ""
     }
