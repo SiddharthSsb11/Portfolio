@@ -31,9 +31,9 @@
     },
     "6": {
       "name": "Battleship",
-      "content": "WorkInProgress - An awesome realtime Game with both modes: Singleplayer & Multiplayer",
+      "content": "Work In Progress - An awesome realtime Game with both Singleplayer & Multiplayer modes available",
       "image": "",
-      "link": ""
+      "link": "https://github.com/SiddharthSsb11/game-battleship"
     }
   }
 }
