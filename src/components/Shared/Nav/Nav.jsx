@@ -117,19 +117,20 @@ const Nav = () => {
             >
               <FaDev size="1.5rem"></FaDev>
             </a>
-            <a
-              href="https://twitter.com/Siddharth_SSB"
-              target="_blank"
-              rel="noreferrer"
-              aria-label="Twitter"
-            >
-              <FaTwitter size="1.5rem"></FaTwitter>
-            </a>
           </NavSocialIcons>
         </NavElements>
       </NavWrapper>
     </React.Fragment>
   );
 };
+
+///* {<a
+              //href="https://twitter.com/Siddharth_SSB"
+              //target="_blank"
+              //rel="noreferrer"
+              //aria-label="Twitter"
+            //>
+              //<FaTwitter size="1.5rem"></FaTwitter>
+            //</a>}
 
 export default Nav;
