@@ -31,9 +31,9 @@
     },
     "6": {
       "name": "Battleship",
-      "content": "Work In Progress - An awesome realtime Game with both Singleplayer & Multiplayer modes available",
+      "content": "An awesome realtime Multiplayer Game where you can always switch to the singleplayer mode too and rage a war against the enemy's battleships.",
       "image": "",
-      "link": "https://github.com/SiddharthSsb11/game-battleship"
+      "link": "https://battleship-games.herokuapp.com/"
     }
   }
 }

@@ -28,13 +28,15 @@ const defaultOptions = {
 const Contact = (props) => {
   const form = useRef();
   const [submitSuccess, setSubmitSuccess] = useState(false);
+
+
   const sendEmail = async (e) => {
-    e.preventDefault();
+    e.preventDefault(); console.log(form.current.Contact_Name.value, form.current)
     await emailjs
       .sendForm(
         "service_8lszf98",
         "template_zhyv93r",
-        form.current,
+        e.target,
         "user_iadVTZnwJAu26YqL7E6or"
       )
       .then(
@@ -65,9 +67,12 @@ const Contact = (props) => {
       )}
       <Zoom>
         <ContactWrapper id={props.id}>
-          <ContactData>
-            <ContactHeading>Get in Touch</ContactHeading>
-            <ContactForm ref={form} onSubmit={sendEmail} action="">
+          <ContactData style={{padding:"1rem"}}>
+            <ContactHeading style={{padding:"1rem", fontSize:"2rem"}}>Get in Touch</ContactHeading>
+            <ContactHeading style={{ color: '#64FFDA', textDecoration:"none", fontSize:"24px", border: '4px solid #64FFDA', padding: '10px', borderRadius: "12px", letterSpacing: '1px'}}>📧 Email: siddharthsb101@gmail.com </ContactHeading>
+            <ContactHeading style={{ color: '#64FFDA', textDecoration:"none", fontSize:"24px", border: '4px solid #64FFDA', padding: '10px', borderRadius: "12px", marginTop:"1rem", letterSpacing: '1px'}}>📞 Phone: 7742705662  </ContactHeading>
+            
+            {/* <ContactForm ref={form} onSubmit={sendEmail} action="">
               <ContactInput
                 name="Contact_Name"
                 height="2.5rem"
@@ -107,7 +112,7 @@ const Contact = (props) => {
               <ContactSubmit type="submit" width="15rem" height="2.75rem">
                 Submit
               </ContactSubmit>
-            </ContactForm>
+            </ContactForm> */}
           </ContactData>
         </ContactWrapper>
       </Zoom>
