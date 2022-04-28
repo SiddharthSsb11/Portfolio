@@ -11,14 +11,14 @@
       "left": "5%"
     },
     "3": {
-      "name": "C++",
-      "percentage": "80%",
-      "left": "20%"
+      "name": "ReactJS",
+      "percentage": "90%",
+      "left": "10%"
     },
     "4": {
-      "name": "ReactJS, Redux, NextJS",
-      "percentage": "85%",
-      "left": "15%"
+      "name": "Redux, Redux Toolkit",
+      "percentage": "90%",
+      "left": "10%"
     },
     "5": {
       "name": "NodeJS, ExpressJS",
@@ -37,23 +37,23 @@
     },
     "8": {
       "name": "Chakra-UI, Styled-Components",
-      "percentage": "90%",
-      "left": "20%"
+      "percentage": "95%",
+      "left": "5%"
     },
     "9": {
-      "name": "Firebase, Heroku, AWS",
+      "name": "Firebase, Heroku, AWS-S3",
       "percentage": "70%",
       "left": "30%"
     },
     "10": {
-      "name": "Git, Postman, Figma, VSCode",
-      "percentage": "85%",
-      "left": "20%"
+      "name": "Postman, VSCode",
+      "percentage": "95%",
+      "left": "5%"
     },
     "11": {
-      "name": "TypeScript",
-      "percentage": "75%",
-      "left": "25%"
+      "name": "Git",
+      "percentage": "95%",
+      "left": "5%"
     },
     "12": {
       "name": "Socket.io, ChartJS",

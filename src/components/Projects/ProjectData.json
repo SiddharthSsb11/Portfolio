@@ -13,23 +13,22 @@
       "link": "https://textalot.herokuapp.com/"
     },
     "3": {
+      "name": "Paws",
+      "content": "An application to match up with local pets and pet lovers for friendship, play-dates or fun outdoor playing.",
+      "image": "",
+      "link": "https://paws-mern-dating.herokuapp.com/"
+    },
+    "4": {
       "name": "Crypto World",
       "content": "A platform to track all and everything about Cryptocurrencies with detailed Graphical information.",
       "link": "https://crypto-world-ssb.netlify.app/"
     },
-    "4": {
+    "5": {
       "name": "Budget Master",
-      "content": "A platform to track & compare your Incomes & Expenses transactions in one place via detailed Graphical information to manage your Budget.",
+      "content": "An application to track & compare your Incomes & Expenses transactions in one place via detailed Categorical & Graphical information.",
       "image": "",
       "link": "https://budget-master-12.web.app/"
     },
-    "5": {
-      "name": "MemoriesPlaces",
-      "content": "Social Media platform to Share all the Memories you created, Places you visited & Achievements you chased..",
-      "image": "",
-      "link": "https://mern-memories-places.web.app/"
-    },
- 
     "6": {
       "name": "Battleship",
       "content": "Work In Progress - An awesome realtime Game with both Singleplayer & Multiplayer modes available",

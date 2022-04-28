@@ -47,12 +47,12 @@ const Landing = () => {
         <Heading>
           <span>Hi, my name is</span>
           <HeadingLarge primary>Siddharth Singh Bhadoriya.</HeadingLarge>
-          <HeadingLarge>Full-Stack Web Developer.</HeadingLarge>
+          <HeadingLarge>FullStack Software Developer.</HeadingLarge>
         </Heading>
         <InfoPara>
-          Focused on making creative web-apps with slick designs. <br /> Currently converting some Words into Code.
+          Focused on making creative digital experiences with slick designs. <br /> Currently converting some Words into Code.
         </InfoPara>
-        <Button value="My Resume" target="_blank" href="https://drive.google.com/file/d/178zxX5xGRsn4bFN5VpjEr3cpMDAHDhar/view?usp=sharing" size="1.3rem"></Button>
+        <Button value="My Resume" target="_blank" href="https://drive.google.com/file/d/1bPdfsTg-tkNty6OCl4AZ9zJpxxde7uA5/view?usp=sharing" size="1.3rem"></Button>
       </HeadingWrapper>
       <LoadingWrapper href="#about" rel="noreferrer">
         <Lottie options={defaultOptions} width={50} height={50} />

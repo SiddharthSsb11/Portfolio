@@ -40,9 +40,9 @@ const About = (props) => {
                 <AboutDetail style={{textAlign: 'justify'}}>
                   I'm passionately into making things and even more determined in making things better.
                   <br /> <br />
-                  I enjoy using my obsessive attention to detail in building interactive
-                  experiences that run cross-platform and all devices. I have an unequivocal
-                  love for making things that might change the world. Talk about Cliche...<br/>
+                  I am a developer with an array of knowledge in front end and back end software development, 
+                  languages and libraries, frameworks, databases and best code practices. 
+                  I like to merge a passion for usability and user experience with technical knowledge to create mesmerizing digital experiences....<br/>
                   I love to code, play Tabla, watch & play football and I am specifically into War,
                   Kingdoms & Empires, Civilisation...to sum up, random mysterious & historical stuffs !!
                   
