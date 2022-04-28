@@ -1,20 +1,20 @@
-import React, { useRef, useState } from "react";
-import emailjs from "emailjs-com";
+import React /* { useRef, useState }  */from "react";
+//import emailjs from "emailjs-com";
 import {
-  ContactForm,
+  //ContactForm,
   ContactData,
   ContactHeading,
-  ContactInput,
-  ContactInputMessage,
-  ContactSubmitWrapper,
-  ContactSubmit,
+  //ContactInput,
+  //ContactInputMessage,
+  //ContactSubmitWrapper,
+  //ContactSubmit,
   ContactWrapper,
 } from "./ContactElements";
-import Lottie from "react-lottie";
-import animationData from "./lf30_editor_lrfkphqf.json";
+//import Lottie from "react-lottie";
+//import animationData from "./lf30_editor_lrfkphqf.json";
 import Zoom from "react-reveal/Zoom";
 
-const defaultOptions = {
+/* const defaultOptions = {
   loop: true,
   autoplay: true,
   name: "Loading Animation",
@@ -23,14 +23,14 @@ const defaultOptions = {
   rendererSettings: {
     preserveAspectRatio: "xMidYMid slice",
   },
-};
+}; */
 
 const Contact = (props) => {
-  const form = useRef();
-  const [submitSuccess, setSubmitSuccess] = useState(false);
+  //const form = useRef();
+  //const [submitSuccess, setSubmitSuccess] = useState(false);
 
 
-  const sendEmail = async (e) => {
+  /* const sendEmail = async (e) => {
     e.preventDefault(); console.log(form.current.Contact_Name.value, form.current)
     await emailjs
       .sendForm(
@@ -54,17 +54,17 @@ const Contact = (props) => {
           console.log(error);
         }
       );
-  };
+  }; */
 
   return (
     <React.Fragment>
-      {submitSuccess ? (
+      {/* submitSuccess ? (
         <ContactSubmitWrapper>
           <Lottie options={defaultOptions} width={48} height={48} />
         </ContactSubmitWrapper>
       ) : (
         ""
-      )}
+      ) */}
       <Zoom>
         <ContactWrapper id={props.id}>
           <ContactData style={{padding:"1rem"}}>
