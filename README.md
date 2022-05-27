@@ -15,7 +15,7 @@ If you find any bugs you can report it to me.
 1) React JS
 2) React Scroll
 3) React Reveal
-4) React Helmet
+4) React Helmet for SEO
 5) Styled Components
 6) Lottie Animation
 7) Email JS
