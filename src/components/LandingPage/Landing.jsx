@@ -52,7 +52,7 @@ const Landing = () => {
         <InfoPara>
           Focused on making creative digital experiences with slick designs. <br /> Currently converting some Words into Code.
         </InfoPara>
-        <Button value="My Resume" target="_blank" href="https://drive.google.com/file/d/1siUltpo__kaqg5Vq7zyW27naczdUzn3C/view?usp=sharing" size="1.3rem"></Button>
+        <Button value="My Resume" target="_blank" href="https://drive.google.com/file/d/1s7MQ5grm74CUPsEj81he4RMQJAAmaGo2/view?usp=sharing" size="1.3rem"></Button>
       </HeadingWrapper>
       <LoadingWrapper href="#about" rel="noreferrer">
         <Lottie options={defaultOptions} width={50} height={50} />
