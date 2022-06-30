@@ -46,7 +46,7 @@ const Landing = () => {
       <HeadingWrapper>
         <Heading>
           <span>Hi, my name is</span>
-          <HeadingLarge primary>Siddharth Singh Bhadoriya.</HeadingLarge>
+          <HeadingLarge primary>Siddharth Singh Bhadauriya.</HeadingLarge>
           <HeadingLarge>FullStack Software Developer.</HeadingLarge>
         </Heading>
         <InfoPara>
