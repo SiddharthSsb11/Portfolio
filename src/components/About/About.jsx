@@ -28,7 +28,7 @@ const About = (props) => {
                 <AboutImage src={AboutImageElement} />
                 <AboutImageFilter />
               </AboutImageWrapper>
-              <AboutName value="Siddharth S. Bhadoriya" size="1.35rem" />
+              <AboutName value="Siddharth S. Bhadauriya" size="1.35rem" />
             </Fade>
           </AboutLeft>
           <AboutRight>
