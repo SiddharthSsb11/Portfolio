@@ -1,12 +1,12 @@
 {
   "data": {
     "1": {
-      "name": "HTML, CSS, SASS",
+      "name": "HTML5, CSS3, SASS",
       "percentage": "95%",
       "left": "5%"
     },
     "2": {
-      "name": "Javascript",
+      "name": "JavaScript, TypeScript",
       "percentage": "95%",
       "left": "5%"
     },
