@@ -46,12 +46,12 @@
       "left": "30%"
     },
     "10": {
-      "name": "Postman, VSCode",
+      "name": "Postman, Git, BitBucket, Jira",
       "percentage": "95%",
       "left": "5%"
     },
     "11": {
-      "name": "Git",
+      "name": "REST APIs",
       "percentage": "95%",
       "left": "5%"
     },
