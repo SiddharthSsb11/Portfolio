@@ -22,18 +22,18 @@
     },
     "5": {
       "name": "NodeJS, ExpressJS",
-      "percentage": "85%",
-      "left": "15%"
-    },
-    "6": {
-      "name": "MongoDB, Mongoose",
       "percentage": "80%",
       "left": "20%"
     },
+    "6": {
+      "name": "MongoDB, Mongoose",
+      "percentage": "70%",
+      "left": "30%"
+    },
     "7": {
       "name": "Material-UI, Bootstrap",
-      "percentage": "85%",
-      "left": "15%"
+      "percentage": "90%",
+      "left": "10%"
     },
     "8": {
       "name": "Chakra-UI, Styled-Components",
@@ -46,19 +46,19 @@
       "left": "30%"
     },
     "10": {
-      "name": "Postman, Git, BitBucket, Jira",
+      "name": "Postman, Git, BitBucket, Jira, Confluence",
       "percentage": "95%",
       "left": "5%"
     },
     "11": {
       "name": "REST APIs",
-      "percentage": "95%",
-      "left": "5%"
+      "percentage": "80%",
+      "left": "20%"
     },
     "12": {
       "name": "Socket.io, ChartJS",
-      "percentage": "85%",
-      "left": "15%"
+      "percentage": "75%",
+      "left": "25%"
     }
 
   }

@@ -17,7 +17,7 @@ import Fade from "react-reveal/Fade";
 const About = (props) => {
   return (
     <div id="about">
-      <AboutSection>
+      <AboutSection> 
         <AboutWrapper>
           <AboutLeft>
             <Fade cascade>
@@ -38,17 +38,16 @@ const About = (props) => {
             <Fade cascade>
               <AboutDetailWrapper>
                 <AboutDetail style={{textAlign: 'left'}}>
-                  I'm passionately into making things and even more determined in making things better.
-                  <br/>
                   I am a full-stack developer with an array of knowledge in front end and back end software development, 
                   languages and libraries, frameworks, databases and best code practices.<br/> 
+                  I have a 2+ YOE as a Software Developer, with major professional work project around transactions, payments, deposits and withdrawals.
+                  <br/>
+                  Contributing towards other features and whole software development lifecycles too.
+                  <br/>
                   I like to merge a passion for usability and user experience with technical knowledge to create mesmerizing digital experiences.<br/>
                   I find it rewarding to dig deep and uncover solutions to challenging problems,it's like solving a puzzle.<br/> 
                   It's something I've always enjoyed.<br/> 
-                  When I am not coding, I identify myself as a die-hard Arsenal Footbal club fan and an ardent advocate of neo-noir genre movies and shows.<br/>
-                  I love to code, play Tabla, watch & play football and I am specifically into War,
-                  Kingdoms & Empires, Civilisation,to sum up, random mysterious & historical stuffs !!
-                  
+                  When I am not coding, I identify myself as a die-hard Arsenal Football club fan and an ardent advocate of neo/noir genre media sources.<br/>                  
                 </AboutDetail>
               </AboutDetailWrapper>
             </Fade>

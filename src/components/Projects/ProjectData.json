@@ -4,19 +4,19 @@
       "name": "Build & Buy",
       "content": "eCommerce application to build & buy or upgrade your gaming setup.",
       "image": "",
-      "link": "https://buildbuy.herokuapp.com/"
+      "link": "https://github.com/SiddharthSsb11/MERN-E-Commerce"
     },
     "2": {
       "name": "Text-A-Lot",
       "content": "A realtime Chat Application for both one-on-one chats and group chats.",
       "image": "",
-      "link": "https://textalot.herokuapp.com/"
+      "link": "https://github.com/SiddharthSsb11/MERN-chat-app"
     },
     "3": {
       "name": "Paws",
       "content": "An application to match up with local pets and pet lovers for friendship, play-dates or fun outdoor playing.",
       "image": "",
-      "link": "https://paws-mern-dating.herokuapp.com/"
+      "link": "https://github.com/SiddharthSsb11/mern-project-paws"
     },
     "4": {
       "name": "Crypto World",
@@ -33,7 +33,7 @@
       "name": "Battleship",
       "content": "An awesome realtime Multiplayer Game where you can always switch to the singleplayer mode too and rage a war against the enemy's battleships.",
       "image": "",
-      "link": "https://battleship-games.herokuapp.com/"
+      "link": "https://github.com/SiddharthSsb11/game-battleship"
     }
   }
 }
